@@ -1,3 +1,4 @@
+![](Hello.gif)
 <h3 align="center">A data science enthusiast looking for opportunities to make use of my technical & other innovative skills.</h3>
 
 - 🌱 I’m currently learning **Deep Learning Concepts**
